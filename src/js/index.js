@@ -129,7 +129,7 @@ window.controlador = {
     // termina registro de personas
     const buttonSignInRegister = document.getElementById("button-sign-in-reg");
     const buttonSignInFacebook = document.getElementById("button-sign-in-facebook");
-    const buttonSignInGit = document.getElementById("button-sign-in-git");
+    const buttonSignInPhone = document.getElementById("button-sign-in-phone");
     const signinGoogle = document.getElementById("button-sign-in-google");
     const signInRegister = document.getElementById("sign-in-reg");
     const passwordRegister = document.getElementById("password-reg");
@@ -160,6 +160,36 @@ window.controlador = {
           }
         });
     });
+    
+
+    buttonSignInPhone.addEventListener("click",()=>{
+      // firebase.auth().languageCode = 'it';
+      const appVerifier = new firebase.auth.RecaptchaVerifier('captcha', {
+        'size': 'invisible'
+      });
+  appVerifier.render().then(function(widgetId){
+     window.appVerifier = widgetId;
+  });
+      const phoneNumber = document.getElementById("input-sing-in-phone").value;
+      console.log(phoneNumber)
+      firebase.auth().signInWithPhoneNumber(phoneNumber, appVerifier)
+        .then(function (confirmationResult) {
+          alert("hey estas usando sm")
+          // SMS sent. Prompt user to type the code from the message, then sign the
+          // user in with confirmationResult.confirm(code).
+          window.confirmationResult = confirmationResult;
+        }).catch(function (error) {
+          grecaptcha.reset(window.recaptchaWidgetId);
+
+          // Or, if you haven't stored the widget ID:
+          window.recaptchaVerifier.render().then(function(widgetId) {
+            grecaptcha.reset(widgetId);
+          })
+        })
+    });
+
+    
+ 
 
     buttonSignInFacebook.addEventListener("click", () => {
       const provider = new firebase.auth.FacebookAuthProvider();
