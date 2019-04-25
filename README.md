@@ -25,7 +25,7 @@ Con el objetivo de conocer a nuestros usuarios se realizaron entrevistas a perso
 
 ### Protopersona
 A través del análisis de la data del Banco Mundial “The Global Findex database”, y de los resultados de las entrevistas se diseñó a nuestra protopersona con las siguientes características: 
-![Protopersona]()
+![Protopersona](https://github.com/Cristalgarcia/FINCO/blob/rama-cris/UX/Protopersona_FinCo.jpg)
 
 ### Mapa de empatía
 Se utilizó la herramienta mapa de empatía para tener una mejor comprensión de nuestro usuario y su entorno. 
@@ -43,15 +43,15 @@ Los usuarios recibirán rendimientos por su dinero invertido y el dinero inverti
 #Construcción del prototipo
 La aplicación está pensada para ser mobile first. Para ello se realizaron los siguientes pasos:
 
-- Definir el [menú de contenido]() de FinCo.
+- Definir el [índice de contenido]() de FinCo.
 - Realizar el [boceto](https://drive.google.com/file/d/0B1rrRRVXU59qb3dKclZYX1JOdXNDLUNhWjY1OVZnLTNtanhv/view?usp=sharing) para ver la estructura general de la app.
 - El diseño del prototipo de baja fidelidad se realizó en  balsamiq. Para visualizar la navegación consultar el siguiente [link](https://balsamiq.cloud/sx05bjc/pgeehup/r547B). 
 
 ### Primer testeo
 Para identificar los pains y gains de la aplicación, se realizó un testeo del prototipo de baja fidelidad con cinco personas que trabajan en el comercio informal cerca de las instalaciones de Expo Guadalajara. Los resultados fueron los siguientes: 
-![Resultados de primer testeo]()
+![Resultados de primer testeo](https://github.com/Cristalgarcia/FINCO/blob/rama-cris/UX/Pruebas%20de%20usabilidad.jpg)
 
-![Testigos]()
+![Testigos](https://github.com/Cristalgarcia/FINCO/blob/rama-cris/UX/Testimonios_FinCo.PNG)
 
 
 
