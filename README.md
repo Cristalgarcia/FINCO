@@ -49,7 +49,7 @@ La aplicación está pensada para ser mobile first. Para ello se realizaron los 
 - El diseño del prototipo de baja fidelidad se realizó en  balsamiq. Para visualizar la navegación consultar el siguiente [link](https://balsamiq.cloud/sx05bjc/pgeehup/r547B). 
 
 ## Primer testeo
-Para identificar los pains y gains de la aplicación, se realizó un testeo del prototipo de baja fidelidad con cinco personas que trabajan en el comercio informal cerca de las instalaciones de Expo Guadalajara. Los resultados fueron los siguientes: 
+Para identificar los pains y gains de la aplicación, se realizó un testeo del prototipo de baja fidelidad con cinco personas que trabajan en el comercio informal cerca de las instalaciones de Expo Guadalajara. Los resultados fueron los siguientes 
 ![Resultados de primer testeo](https://github.com/Cristalgarcia/FINCO/blob/rama-cris/UX/Pruebas%20de%20usabilidad.jpg)
 
 ![Testigos](https://github.com/Cristalgarcia/FINCO/blob/rama-cris/UX/Testimonios_FinCo.PNG)
