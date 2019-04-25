@@ -39,18 +39,35 @@ En caso de que algún miembro de la economía colectiva necesite un préstamo, F
 Esto se presenta como una alternativa para aquellas personas que no cuentan con historial crediticio, comprobante de ingresos o alguna otra garantía.
 Los usuarios recibirán rendimientos por su dinero invertido y el dinero invertido será prestado a otro miembro de la comunidad, para crecer en comunidad.
 
-#Construcción del prototipo
+# Construcción del prototipo
 La aplicación está pensada para ser mobile first. Para ello se realizaron los siguientes pasos:
 
 - Definir el [índice de contenido](https://github.com/Cristalgarcia/FINCO/blob/rama-cris/UX/%C3%8Dndice%20de%20contenido_FinCo.PNG) de FinCo.
+
 - Realizar el [boceto](https://drive.google.com/file/d/0B1rrRRVXU59qb3dKclZYX1JOdXNDLUNhWjY1OVZnLTNtanhv/view?usp=sharing) para ver la estructura general de la app.
+
 - El diseño del prototipo de baja fidelidad se realizó en  balsamiq. Para visualizar la navegación consultar el siguiente [link](https://balsamiq.cloud/sx05bjc/pgeehup/r547B). 
 
-### Primer testeo
+## Primer testeo
 Para identificar los pains y gains de la aplicación, se realizó un testeo del prototipo de baja fidelidad con cinco personas que trabajan en el comercio informal cerca de las instalaciones de Expo Guadalajara. Los resultados fueron los siguientes: 
 ![Resultados de primer testeo](https://github.com/Cristalgarcia/FINCO/blob/rama-cris/UX/Pruebas%20de%20usabilidad.jpg)
 
 ![Testigos](https://github.com/Cristalgarcia/FINCO/blob/rama-cris/UX/Testimonios_FinCo.PNG)
+
+## Primera iteración 
+### Prototipo de alta fidelidad 
+A partir de los comentarios realizados por los usuarios se diseñó el prototito de alta fidelidad.
+
+- En el apartado de Registro, al usuario se le solicitara como requisito el acceso a la data de su dispositivo celular para analizarla y evaluar si puede ser un candidado viable para futuras solicitudes de créditos. 
+
+- El usuario tienen la opción de crear una caja de ahorro en la cual podran determinar el monto, periodo y plazo para el déposito de sus ahorros. 
+
+- Si el usuario no cuenta con una tarjeta bancaria para el retiro de su efectivo tiene la opción de solicitar una de manera rápido y poder recogerla en alguna sucursal cerca de sus domicilio. 
+
+- El usuario puede solicitar un crédito para impulsar su negocio, el único requisito es ser un candidato viable con base en el análisis de la data de su dispositivo celular. El crédito se ajusto a las necedidades del usuario.
+
+Para poder visualizar el dispositivo de alta fidelida consultar la siguiente [liga](https://marvelapp.com/476h9dc/screen/56144505).
+
 
 
 
