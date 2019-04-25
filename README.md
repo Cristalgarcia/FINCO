@@ -1,6 +1,6 @@
 # FINCO 1
 
-#Preámbulo
+# Preámbulo
 Los segmentos de microempresas desempeñan un rango importante de la economía mexicana, particularmente en los niveles de empleo en el país. 
 
 En México, el 52% de los mexicanos labora en la informalidad de acuerdo a datos del cuarto trimestre de 2018 de la Encuesta Nacional de Ocupación y Empleo. Los trabajadores informales carecen de acceso a los derechos laborales de los cuales los empleados formales gozan; acceso a capacitaciones profesionales y a herramientas de innovación, dando como resultado bajos niveles de productividad.
@@ -14,7 +14,7 @@ Las personas interesadas no tienen acceso a la banca tradicional, no cuentan con
 # Objetivo
 Crear una economía colectiva para dueños de micronegocios que se sitúan en la informalidad, para tener un capital que permita el otorgamiento de microcréditos a partir de la recolección y análisis de data alterna a su historial crediticio recolectada a través de sus dispositivos móviles; como historial de navegación, historial de llamadas, aplicaciones instaladas, etc. De esta forma ayudarlos a tener de una manera accesible los recursos para impulsar su negocio y lograr su inclusión financiera.
 
-# EMPATIZAR 
+# Empatizar 
 
 ### Entrevistas
 Con el objetivo de conocer a nuestros usuarios se realizaron entrevistas a personas que trabajan en puestos ambulantes referente a su percepción hacia las empresas financieras, los comentarios obtenidos fueron:
@@ -30,7 +30,6 @@ A través del análisis de la data del Banco Mundial “The Global Findex databa
 ### Mapa de empatía
 Se utilizó la herramienta mapa de empatía para tener una mejor comprensión de nuestro usuario y su entorno. 
 ![Mapa de empatía](https://github.com/Cristalgarcia/FINCO/blob/rama-cris/UX/Mapa%20de%20empat%C3%ADa_FinCo.jpg)
-
 
 # Ideación 
 La solución consiste en crear un producto financiero exclusivo para micronegocios, por medio de una institución financiera que se encargue de administrar los recursos generados por dicha economía colectiva.
