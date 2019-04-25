@@ -29,7 +29,7 @@ A través del análisis de la data del Banco Mundial “The Global Findex databa
 
 ### Mapa de empatía
 Se utilizó la herramienta mapa de empatía para tener una mejor comprensión de nuestro usuario y su entorno. 
-![Mapa de empatía]()
+![Mapa de empatía](https://github.com/Cristalgarcia/FINCO/blob/rama-cris/UX/Mapa%20de%20empat%C3%ADa_FinCo.jpg)
 
 
 # Ideación 
@@ -43,7 +43,7 @@ Los usuarios recibirán rendimientos por su dinero invertido y el dinero inverti
 #Construcción del prototipo
 La aplicación está pensada para ser mobile first. Para ello se realizaron los siguientes pasos:
 
-- Definir el [índice de contenido]() de FinCo.
+- Definir el [índice de contenido](https://github.com/Cristalgarcia/FINCO/blob/rama-cris/UX/%C3%8Dndice%20de%20contenido_FinCo.PNG) de FinCo.
 - Realizar el [boceto](https://drive.google.com/file/d/0B1rrRRVXU59qb3dKclZYX1JOdXNDLUNhWjY1OVZnLTNtanhv/view?usp=sharing) para ver la estructura general de la app.
 - El diseño del prototipo de baja fidelidad se realizó en  balsamiq. Para visualizar la navegación consultar el siguiente [link](https://balsamiq.cloud/sx05bjc/pgeehup/r547B). 
 
