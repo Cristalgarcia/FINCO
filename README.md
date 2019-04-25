@@ -29,7 +29,8 @@ A través del análisis de la data del Banco Mundial “The Global Findex databa
 
 ### Mapa de empatía
 Se utilizó la herramienta mapa de empatía para tener una mejor comprensión de nuestro usuario y su entorno. 
-![Para de empatía]()
+![Mapa de empatía]()
+
 
 # Ideación 
 La solución consiste en crear un producto financiero exclusivo para micronegocios, por medio de una institución financiera que se encargue de administrar los recursos generados por dicha economía colectiva.
